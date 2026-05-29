@@ -1,16 +1,38 @@
-## Hi there 👋
+# Harsh Asrani
 
-<!--
-**HarshAsrani/HarshAsrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems that run on millions of transactions a day and don't fall over.
 
-Here are some ideas to get you started:
+Currently making language models useful at JPmorgan Chase, fine-tuning models, shipping 
+agentic systems, and occasionally explaining to compliance why the model is correct. 
+MS Data Science @ NYU
+MSc & BSc Computer Science @ Univerity of Delhi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I Work On**
+
+Fine-tuning language models for production constraints nobody mentions in papers.  
+Systems that actually ship; Not demos, not notebooks, production.  
+ML under financial-grade reliability requirements, because 70% accuracy isn't 
+a benchmark, it's a liability.
+
+---
+
+
+**Tools**
+`python` · `pytorch` · `huggingface` · `langgraph` · `langchain` · `xgboost` · `scikit-learn`  
+Models I've fine-tuned: `roberta` · `xlm-roberta` · `gemma`
+
+---
+
+**What I'm building**
+
+→ **Agentic code intelligence** — ast-parsing 7 languages to build dependency graphs, 
+grounding locally-run gemma agents for cross-component impact analysis  
+→ **Learned retrieval assistant** — rag with implicit feedback signals. 
+including frustration detection.
+
+---
+
+nyc. open to interesting problems.  
+[linkedin](https://linkedin.com/in/harshasrani/) · harshasrani99@gmail.com
